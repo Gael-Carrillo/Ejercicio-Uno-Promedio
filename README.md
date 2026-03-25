@@ -141,4 +141,4 @@ ejercicio1/
 
 ## Prueba en Postman
 
-![Prueba Postman](images/prueba.png)
+![Prueba Postman](imagenes/prueba.png)
